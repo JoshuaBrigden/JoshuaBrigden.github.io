@@ -6,6 +6,10 @@ Thanks for downloading the **Me One Page HTML template**. Me is a slick, persona
 This HTML template holds a [CCA 3.0 License](https://creativecommons.org/licenses/by/3.0/) - meaning you can do whatever you want (even commercially) but you need to keep the template footer credit linking back to One Page Love. To remove the credit simply buy a license on the template download page on One Page Love:
 [https://onepagelove.com/me](https://onepagelove.com/me)
 
+---
+permalink: /index.html
+---
+
 ## Useful links
 - [Me HTML Download](https://onepagetemplates.com/download/me-html)
 - [Me HTML Demo](https://demos.onepagetemplates.com/html/me/)
